@@ -18,6 +18,12 @@ mvn install:install-file -Dfile=res/cruisecontrol-impl-1.0-SNAPSHOT.jar -DgroupI
 
 ---
 
+### __File: `documentation.txt`__
+
+This file contains some _additional documentation_ regarding the source code packaged inside the `.jar` files mentioned above.  
+
+---
+
 ### __File: `src/main/java/ecse429/Runner.java`__
 
 This file is simply a sample file that gives an example on how to access the contents of the system-under-test (the `.jar` files indicated above). It is included only as an explanatory file, and it is not directly relevant to the work that you need to do for the assignment. You may delete this file if you wish.
